@@ -1,6 +1,5 @@
-# [Health App](http://ec2-18-217-53-87.us-east-2.compute.amazonaws.com/)
-This project is an end to end data science project that is able to predict the chances of getting a disease in organs like liver, kidey, heart, etc.<br><br>
-![](screenupdated.gif)
+# [Health App]
+This project is an end to end data science project that is able to predict the chances of getting a disease in organs like liver, kidey, heart, etc.<br><br>!
 
 # Dataset Used
 1. [Breast Cancer](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data): Winconsin Breast Cancer Dataset
