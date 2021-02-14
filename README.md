@@ -1,5 +1,5 @@
 # [Health App]
-This project is an end to end data science project that is able to predict the chances of getting a disease in organs like liver, kidey, heart, etc.<br><br>!
+This project is an end to end data science project that is able to predict the chances of getting a disease in organs like liver, kidey, heart, etc.<br>
 
 # Dataset Used
 1. [Breast Cancer](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data): Winconsin Breast Cancer Dataset
